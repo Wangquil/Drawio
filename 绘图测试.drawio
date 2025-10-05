@@ -13,6 +13,9 @@
         <mxCell id="3vwzYwzwPNA0wWS0ZiA6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3vwzYwzwPNA0wWS0ZiA6-2" target="3vwzYwzwPNA0wWS0ZiA6-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3vwzYwzwPNA0wWS0ZiA6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3vwzYwzwPNA0wWS0ZiA6-2" target="3vwzYwzwPNA0wWS0ZiA6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3vwzYwzwPNA0wWS0ZiA6-2" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="280" width="60" height="80" as="geometry" />
         </mxCell>
@@ -24,6 +27,9 @@
         </mxCell>
         <mxCell id="3vwzYwzwPNA0wWS0ZiA6-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3vwzYwzwPNA0wWS0ZiA6-8" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="460" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
